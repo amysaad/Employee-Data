@@ -1,0 +1,11 @@
+id,name,email,current_title,current_salary,recommended_for_bonus
+10000,Jack,jack@companyxyz.com,CEO,5000000,1
+10002,Elloise,elloise@companyxyz.com,Sales,90000,0
+10003,Mary,mary@companyxyz.com,Human Resources Assistant,55000,1
+10004,Peter,peter@companyxyz.com,Data Analyst,95000,0
+10001,John,john@companyxyz.com,Senior Software Engineer,180000,1
+10006,Alice,alice@companyxyz.com,Associate Business Analyst,60000,0
+10007,Jamie,jamie@companyxyz.com,Business Analyst,65000,0
+10008,Bob,bob@companyxyz.com,Software Engineer II,120000,1
+10009,Jim,jim@companyxyz.com,Database Administrator,200000,1
+10010,Susan,susan@companyxyz.com,Intern,15000,0
